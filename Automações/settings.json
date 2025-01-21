@@ -1,0 +1,12 @@
+{
+    "triggers": [
+        {
+            "key": "q",
+            "button": "left"
+        },
+        {
+            "key": "e",
+            "button": "left"
+        }
+    ]
+}
